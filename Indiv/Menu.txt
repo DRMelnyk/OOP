@@ -1,0 +1,8 @@
+Sausegas
+4
+Water
+1
+Apple
+1
+Borsch
+100

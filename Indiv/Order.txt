@@ -1,0 +1,10 @@
+d r | Tomatoes: 20$ * 2 = 40$  | 40$ | 15:30:07 | 13min  | Piter Klinton | 
+3
+Danylo Melnyk | Bread: 20$ * 4 = 80$  | 80$ | 15:30:07 | 18min  | Piter Klinton | 
+1
+Alex Berezovsky | Meat: 70$ * 4 = 280$ Orange: 20$ * 3 = 60$  | 340$ | 19:43:11 | 12min  | Piter Klinton | 
+1
+Danylo Melnyk | Bread: 1$ * 4 = 4$  | 4$ | 10:46:20 | 19min  | Piter Klinton | 
+1
+D R | Borsch: 100$ * 100 = 10000$  | 10000$ | 10:40:45 | 15min  | Piter Klinton | 
+1
